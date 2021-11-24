@@ -1,0 +1,13 @@
+1、AiXcoder Code Completer               智能提示(好像收费,Codota好像免费)
+2、GitToolBox                            Git插件，每一行代码显示提交记录
+3、maven helper                          maven依赖冲突检查
+4、Java Stream Debugger                  Stream可视化
+5、JOL Java Object Layout                对象布局、大小可视化
+6、Rainbow Brackets                      🌈括号
+7、RestfulTool                           类似于postman
+8、Translation                           本地翻译
+9、Trans Pride Progress Bar              🌈屁(NyanProgressBar)
+10、MybatisX/lombok/MapStruct support    指定文件跳转
+11、GenerateSerialVersionUID             快捷生成SerialVersionUID(getter、setter菜单栏)
+12、Auto filling Java call arguments     自动完成方法参数填充(感觉没啥卵用)
+13、Alibaba Java Coding Guidelines       阿里代码规范(感觉用处也不大)
